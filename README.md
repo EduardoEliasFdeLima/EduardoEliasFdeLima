@@ -1,4 +1,12 @@
-### Hi there 👋
+### Me formei em técnico de informática em 2021, no <a target="_blank" href="https://www.google.com/search?q=univap+centro&oq=univap+centro&aqs=chrome..69i57j0i512l3j69i65j69i60j69i65l2.1837j0j7&sourceid=chrome&ie=UTF-8"> colégio Univap - Unidade centro </a>
+Lá tive aulas de lógica de programação, aulas de algoritmo, sistemas operacionais, conceito da programação orientada à objetos (POO), redes, banco de dados (Manipulação de dados com MySQL) e aprendi linguagens como C++, C#, VisualBasic, HTML, CSS, JavaScript, Java, PHP e Kotlin para programação de dispositivos movéis.
+
+Me apeguei bastante a programação web e me sinto muito confortável e feliz com o Front-end, por isso meu foco de estudo é sempre HTML, CSS e JavaScript (às vezes também uso Jquery em alguns projetos [que é uma bliblioteca JavaScript que facilita alguns processos]).<br><br>
+<img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img width="5%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXWDt5XmFhzjVTL9nNutcGaRFTIHJArLuc-pmCuyYiuxVl7RWW3xasxSiSN8w3iE8nSPE&usqp=CAU">
+
+
+
+
 
 <!--
 **EduardoEliasFdeLima/EduardoEliasFdeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
