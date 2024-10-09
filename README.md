@@ -1,7 +1,14 @@
-### Me formei em técnico de informática em 2021, no <a target="_blank" href="https://www.google.com/search?q=univap+centro&oq=univap+centro&aqs=chrome..69i57j0i512l3j69i65j69i60j69i65l2.1837j0j7&sourceid=chrome&ie=UTF-8"> colégio Univap - Unidade centro </a>
-Lá tive aulas de lógica de programação, aulas de algoritmo, sistemas operacionais, conceito da programação orientada à objetos (POO), redes, banco de dados (Manipulação de dados com MySQL) e aprendi linguagens como C++, C#, VisualBasic, HTML, CSS, JavaScript, Java, PHP e Kotlin para programação de dispositivos movéis.
+### Portfolio: https://portifolio-eduardoelias.netlify.app/
 
-Me apeguei bastante a programação web e me sinto muito confortável e feliz com o Front-end, por isso me dedico a estudar HTML, CSS e JavaScript (às vezes também uso Jquery em alguns projetos - uma bliblioteca JavaScript que facilita alguns processos - ) para melhorar ao máximo minhas habilidades de Front.<br><br>
+Formação:
+- Curso técnico em informática (2019-2021) -- Colégio Univap - unidade centro
+- Faculdade de Técnologia de sistemas para Internet (2022 - 2024)-  Senac (EAD)
+- Curso intensivo de ReactJS e UI design (2024) -- Origamid
+
+Experincia:
+- Estágiário por 8 meses como suporte de ti em uma rede de padaria do Rio Grande do Sul
+
+Meu foco é Desenvolvimento Web - Frond-end, que foi a área que mais gostei de desenvolver, realizo projetos pessoais e sempre atualizo e posto aqui no Github. As linguagens quais sou mais habituado são:<br><br>
 <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img width="5%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXWDt5XmFhzjVTL9nNutcGaRFTIHJArLuc-pmCuyYiuxVl7RWW3xasxSiSN8w3iE8nSPE&usqp=CAU">
 
 
