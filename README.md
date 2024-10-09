@@ -5,7 +5,7 @@ Formação:
 - Faculdade de Técnologia de sistemas para Internet (2022 - 2024)-  Senac (EAD)
 - Curso intensivo de ReactJS e UI design (2024) -- Origamid
 
-Experincia:
+Experiência:
 - Estágiário por 8 meses como suporte de ti em uma rede de padaria do Rio Grande do Sul
 
 Meu foco é Desenvolvimento Web - Frond-end, que foi a área que mais gostei de desenvolver, realizo projetos pessoais e sempre atualizo e posto aqui no Github. As linguagens quais sou mais habituado são:<br><br>
